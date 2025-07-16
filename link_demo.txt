@@ -1,0 +1,6 @@
+https://drive.google.com/file/d/1U6oF8djrdQc0qfHLVMWijASdrAIzwuPk/view?usp=sharing
+
+
+en el demo mlterm no esta como mi terminal por defecto porque antes estaba intentando en 
+wezterm, y se me movieron muchas configuraciones, pero el script funciona si es un ubuntu
+limpio
